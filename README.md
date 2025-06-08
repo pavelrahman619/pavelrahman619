@@ -42,8 +42,8 @@ I'm **Md Pavel Rahman**, a passionate **Full-Stack Developer** and problem solve
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
+| Project | Description | Stack |
+|--------|-------------|-------|
 | 🛒 **Order Management System** | Full-stack system with itemized discounts (fixed, % and weight-based). | NestJS, Prisma, React, Mantine, Docker |
 | 🎯 **Promotions Manager** | Manage, apply, and visualize promotions with advanced discount logic. | React, NestJS, PostgreSQL |
 | 📊 **NBD Fund Tracker** | Power BI dashboard tracking donor funds and proposal stats. | Power BI, SQL Server |
