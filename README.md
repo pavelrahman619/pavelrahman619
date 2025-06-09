@@ -53,8 +53,8 @@ I'm **Md Pavel Rahman**, a passionate **Full-Stack Developer** and problem solve
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavelrahman619&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavelrahman619&theme=radical" alt="streak" />
 </p>
 
 ---
